@@ -1,0 +1,43 @@
+# Android build artifacts
+*.apk
+*.aar
+*.o
+*.so
+
+# Android Studio
+.idea/
+.gradle/
+local.properties
+
+# Gradle
+gradle-app.setting
+!gradle-wrapper.jar
+
+# Build outputs
+build/
+app/build/
+captures/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Coverage reports
+coverage/
+
+# NDK
+obj/
+.libs/
