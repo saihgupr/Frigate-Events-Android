@@ -1,6 +1,6 @@
 # Frigate Events
 
-A modern Android app for viewing Frigate security camera events. Works on phones, tablets, and Android TV.
+A modern Android app for viewing Frigate security camera events. Works on phones, tablets, and Android TV. Also [available](https://github.com/saihgupr/Frigate-Events) for iOS/macOS.
 
 ## Features
 
@@ -59,7 +59,6 @@ adb shell am start -n com.pizzaman.frigateevents/com.pizzaman.frigateevents.Main
 
 - **Mobile**: Tap and swipe to navigate
 - **TV**: Use D-pad on remote control
-- **Refresh**: Pull down (mobile) or press UP on settings (TV)
 
 ---
 
